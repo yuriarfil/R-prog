@@ -1,2 +1,2 @@
-# R-prog
-R programming - Jupyter Notebooks
+# rbp
+Basic R programming - Jupyter Notebooks
